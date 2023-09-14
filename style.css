@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.post-container{
+    width: 500px;
+}
+
+.images {
+    height: 600px;
+    background-color: brown;
+}
+
+.images img{
+    object-fit: cover;
+}
